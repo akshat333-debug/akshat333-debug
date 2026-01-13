@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>Nice to meet you, I’m Akshat Agrawal!<br><br>🎓 Integrated M.Tech CS student at VIT Vellore<br>🔭 Currently working on AI-powered and full-stack projects<br>💬 Ask me about Python, Web Dev, AI/ML, or System Design<br>🛠️ Tech I use: Python, React, Node.js, OpenCV, YOLO, Docker<br>📫 How to reach me: akshatagrawal.work@gmail.com<br><br>⚡ Fun fact: If I’m not coding, I’m probably at the gym or playing basketball
+Hi there 👋<br>Nice to meet you, I’m Akshat Agrawal!<br><br>🎓 Integrated M.Tech CS student at VIT Vellore<br>🔭 Currently working on AI-powered and full-stack projects<br>💬 Ask me about Python, Web Dev, AI/ML, or System Design<br>🛠️ Tech I use: Python, React, Node.js, OpenCV, YOLO, Docker<br><br>⚡ Fun fact: If I’m not coding, I’m probably at the gym or playing basketball
 
 
 ## 🌐 Socials:
