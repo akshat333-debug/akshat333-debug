@@ -28,9 +28,5 @@ Hi there 👋<br>Nice to meet you, I’m Akshat Agrawal!<br><br>🎓 Integrated 
 
 ## 📊 GitHub Activity
 
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat333-debug&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshat333-debug&theme=radical)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshat333-debug&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshat333-debug&theme=react-dark)
 
