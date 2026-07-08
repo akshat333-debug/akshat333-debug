@@ -27,6 +27,10 @@ Live demo → [quantproto.vercel.app](https://quantproto.vercel.app)
 - **[arena-pulse](https://github.com/akshat333-debug/arena-pulse)** — autonomous agent for real-time stadium crowd telemetry → automated supply-chain restocking
 - **[Appian Predictive Process Simulation](https://github.com/akshat333-debug/Appian-Predictive-Process-Simulation-and-Operational-Forecasting)** — Appian AI Application Challenge, SHAASTRA 2026
 
+### Patent
+
+Co-inventor, Indian Patent Application **202641051569** (published) — *"A Computer-Implemented System for Deterministic Multi-Layer Verification of Machine-Generated Textual Data"*, filed via VIT Vellore, April 2026.
+
 ### Stack
 
 `Python` `PyTorch` `FastAPI` `LLMs / GenAI` `React` `Docker` `AWS`
