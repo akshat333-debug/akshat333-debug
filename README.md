@@ -15,7 +15,7 @@ Integrated M.Tech CSE @ VIT Vellore, 2028 · Top 10, Appian AI Challenge @ SHAAS
 
 ### Building now
 
-**[QuantProto](https://github.com/akshat333-debug/QuantProto)** — multi-agent quantitative research engine: HMM regime detection, walk-forward backtesting, exposed via MCP tools. FastAPI backend, 246+ automated tests.
+**[QuantProto](https://github.com/akshat333-debug/QuantProto)** — the backtest-integrity auditor. Paste a strategy's returns, find out if the edge is real or overfit (Deflated Sharpe, Probability of Backtest Overfitting, Robustness Score). Multi-agent + MCP tools, FastAPI, 396+ tests.
 Live demo → [quantproto.vercel.app](https://quantproto.vercel.app)
 
 **[TrustCall](https://github.com/akshat333-debug/trustcall)** — explainable deepfake voice detection. RawNet2 + Whisper, real-time browser inference.
