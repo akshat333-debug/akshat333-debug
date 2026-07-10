@@ -15,6 +15,9 @@ Integrated M.Tech CSE @ VIT Vellore, 2028 · Top 10, Appian AI Challenge @ SHAAS
 
 ### Building now
 
+**[RunFuse](https://github.com/akshat333-debug/RunFuse)** — runtime circuit breakers for AI agents. Trips a fuse and stops a run when it crosses cost, step, time, error, or loop limits — before the bill does. Gateways cap per API-key; observability tools show the fire after it's out. RunFuse enforces mid-flight.
+`pip install runfuse` · PyPI + CI green
+
 **[QuantProto](https://github.com/akshat333-debug/QuantProto)** — the backtest-integrity auditor. Paste a strategy's returns, find out if the edge is real or overfit (Deflated Sharpe, Probability of Backtest Overfitting, Robustness Score). Multi-agent + MCP tools, FastAPI, 396+ tests.
 Live demo → [quantproto.vercel.app](https://quantproto.vercel.app)
 
